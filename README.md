@@ -4,5 +4,5 @@
 # install
 
 ```shell
-$ bower i --save dsn-nimbus
+$ bower i --save alt-divide-array-por-tempo
 ```
